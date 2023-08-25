@@ -44,7 +44,7 @@ export default function Home() {
     const deleteLastCard = () => {
       setData((prevData) => prevData.slice(0, prevData.length - 1));
     };
-  
+  //comment
   return (
     
    <div>
